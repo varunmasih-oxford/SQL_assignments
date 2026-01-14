@@ -69,3 +69,6 @@ Assume table name: `weather_data`
 24. Find cities where average wind speed is above overall average wind speed.
 25. Create a report showing city, date, average temperature, and average AQI for days where AQI is above 200 and temperature is above 32°C.
 
+
+
+https://docs.google.com/presentation/d/1Yejv6zQxr3qmEzyTkeP8iTldv5PZOYyqJULY0GTCg7Y/edit?usp=sharing
