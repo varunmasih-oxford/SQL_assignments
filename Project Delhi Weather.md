@@ -71,4 +71,4 @@ Assume table name: `weather_data`
 
 
 
-https://docs.google.com/presentation/d/1Yejv6zQxr3qmEzyTkeP8iTldv5PZOYyqJULY0GTCg7Y/edit?usp=sharing
+'https://docs.google.com/presentation/d/1Yejv6zQxr3qmEzyTkeP8iTldv5PZOYyqJULY0GTCg7Y/edit?usp=sharing'
